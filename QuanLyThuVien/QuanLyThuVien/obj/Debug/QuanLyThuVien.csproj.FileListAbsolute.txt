@@ -1,0 +1,570 @@
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form2.resources
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form2.resources
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+\\Mac\Home\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Adminform.resources
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form2.resources
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.qldocgia.resources
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.xml
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Quanlithuvien.resources
+D:\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.test.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Adminform.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Quanlithuvien.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.qldocgia.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Học\Công nghệ .NET\QuanLyThuVien1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Adminform.resources
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Quanlithuvien.resources
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.qldocgia.resources
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.presentation.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.presentation.xml
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\TPUS\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.DirectShow.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.presentation.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.DirectShow.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.presentation.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Adminform.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.DangNhap.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.DoiMatKhau.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.FormUser.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.ThongTinUser.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Quanlithuvien.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.qldocgia.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Học\Công nghệ .NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.presentation.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.presentation.xml
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Adminform.resources
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.DangNhap.resources
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.DoiMatKhau.resources
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.FormUser.resources
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.ThongTinUser.resources
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Quanlithuvien.resources
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.qldocgia.resources
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Phi1\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.DirectShow.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.presentation.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\AForge.Video.DirectShow.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Core.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Azure.Identity.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Buffers.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Data.SqlClient.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Memory.Data.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Text.Json.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.ValueTuple.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\zxing.presentation.xml
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Adminform.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.DangNhap.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.DoiMatKhau.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.FormUser.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ChoPhi.ThongTinUser.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Quanlithuvien.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.qldocgia.resources
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Học\Công nghệ .NET\QuanLyThuVien (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
